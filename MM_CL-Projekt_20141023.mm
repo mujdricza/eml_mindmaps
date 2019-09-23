@@ -1,0 +1,451 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#000000" CREATED="1383652314564" ID="ID_930182168" MODIFIED="1383746017719" TEXT="CL-Projekt">
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1383652337059" ID="ID_756938388" MODIFIED="1383653181058" POSITION="right" TEXT="Gruppe">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1383652812072" ID="ID_778794066" MODIFIED="1383653181059" TEXT="Besprechungen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383652846157" ID="ID_1276098197" MODIFIED="1383653181060" TEXT="Arbeitsteilung">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383925146429" ID="ID_1968948571" MODIFIED="1383925308882" TEXT="Effektivit&#xe4;t oder Neues-Lernen ist wichtiger?"/>
+<node COLOR="#111111" CREATED="1383926376165" ID="ID_667744017" MODIFIED="1383926396223" TEXT="hat jeder etwas Herausforderndes?"/>
+</node>
+<node COLOR="#990000" CREATED="1383653042925" ID="ID_1747747135" MODIFIED="1383672489350" TEXT="Ideen diskutieren">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383925255402" ID="ID_888156681" MODIFIED="1383925280595" TEXT="nicht nur Ideen vom &quot;Gruppenbesten&quot; anh&#xf6;ren"/>
+<node COLOR="#111111" CREATED="1383926422355" ID="ID_490169798" MODIFIED="1383926429246" TEXT="Literatur diskutieren"/>
+</node>
+<node COLOR="#990000" CREATED="1383652858719" ID="ID_1413558501" MODIFIED="1383653181061" TEXT="Fortschritte">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383652865875" ID="ID_1366535867" MODIFIED="1383653181062" TEXT="Probleme">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383652877374" ID="ID_1678446028" MODIFIED="1383672441194" TEXT="L&#xf6;sung suchen"/>
+<node COLOR="#111111" CREATED="1383652445632" ID="ID_1519803608" MODIFIED="1383672433874" TEXT="Betreuer fragen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1383653067773" ID="ID_703746038" MODIFIED="1383672501961" TEXT="auf Mails antworten">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383653082099" ID="ID_443305836" MODIFIED="1383672501962" TEXT="Rundmail an alle Mitglieder">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383653009299" ID="ID_1607350288" MODIFIED="1383653181068" TEXT="soziale Kompetenz">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383925006153" ID="ID_1872041464" MODIFIED="1383925036747" TEXT="alle in das Projekt einbeziehen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383925037665" ID="ID_1866860712" MODIFIED="1414098623396" TEXT="Meinungsunterschiede objektiv behandeln">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383925075071" ID="ID_1845223572" MODIFIED="1383925130349" TEXT="pers&#xf6;nliche Sym-/Antipathien beiseite legen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1383652417865" ID="ID_1304266610" MODIFIED="1383653181070" POSITION="right" TEXT="Aufgabe">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1383653625550" ID="ID_1275424697" MODIFIED="1383653628617" TEXT="formulieren">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383653656413" ID="ID_1811748531" MODIFIED="1383653667005" TEXT="wissentschaftliches Ziel">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383653667006" ID="ID_700723884" MODIFIED="1383653718933" TEXT="Ausarbeitung/Verwirklichung eines Ansatzes"/>
+<node COLOR="#111111" CREATED="1383653676124" ID="ID_253195360" MODIFIED="1383653690480" TEXT="Erweiterung/Modifikation eines Ansatzes"/>
+<node COLOR="#111111" CREATED="1383653690988" ID="ID_667162907" MODIFIED="1383653753208" TEXT="neue Herangehensweise"/>
+</node>
+<node COLOR="#990000" CREATED="1414098647541" ID="ID_974734915" MODIFIED="1414098662088" TEXT="Teilaufgaben">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1414098669105" ID="ID_1094341815" MODIFIED="1414098676869" TEXT="optionale (Teil)aufgaben">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383653629294" ID="ID_775048516" MODIFIED="1383653632921" TEXT="aufteilen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383654092517" ID="ID_1135859621" MODIFIED="1383654130183" TEXT="Wer kann was?">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383654096877" ID="ID_1509150932" MODIFIED="1414098690566" TEXT="Was kann man durch das Projekt/die Aufgaben zus&#xe4;tzlich lernen?">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383653633286" ID="ID_594016836" MODIFIED="1383653642872" TEXT="dokumentieren">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1383654194592" ID="ID_855537187" MODIFIED="1383654198250" TEXT="Zeitplan">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383746217456" ID="ID_1635821371" MODIFIED="1383746222378" TEXT="Puffer lassen">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383925362694" ID="ID_790385790" MODIFIED="1383925381952" TEXT="Zeit f&#xfc;r Plan B lassen"/>
+</node>
+<node COLOR="#990000" CREATED="1383746223056" ID="ID_1326071963" MODIFIED="1383746257353" TEXT="neue/noch bessere Ideen fallen einem erst ein, wenn etwas Arbeit schon geleistet wurde">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1383652426313" ID="ID_1723872790" MODIFIED="1383653181071" POSITION="right" TEXT="Lernverfahren">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1383654687476" ID="ID_1756683086" MODIFIED="1383654965912" TEXT="ML-Verfahren">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383655006250" ID="ID_1460963200" MODIFIED="1383926282691" TEXT="un&#xfc;berwacht (unsupervised)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383925402661" ID="ID_1697917616" MODIFIED="1383926295011" TEXT="halb&#xfc;berwacht (semisupervised)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383723595702" ID="ID_315901554" MODIFIED="1383926311778" TEXT="&#xfc;berwacht (supervised)">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383723656842" ID="ID_904021875" MODIFIED="1383723700096" TEXT="gen&#xfc;gend Trainingsdaten vorhanden?"/>
+<node COLOR="#111111" CREATED="1383655002266" ID="ID_1136502345" MODIFIED="1383723615725" TEXT="Naive Bayes">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1383654993146" ID="ID_1585727785" MODIFIED="1383723618372" TEXT="Entscheidungsbaum">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1383723680674" ID="ID_112155127" MODIFIED="1383723698089" TEXT="..."/>
+</node>
+<node COLOR="#990000" CREATED="1383723621053" ID="ID_88716316" MODIFIED="1383926331412" TEXT="best&#xe4;rkendes Lernen (reinforcement learning)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383654925493" ID="ID_625522388" MODIFIED="1383655044936" TEXT="Datenverarbeitung">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383654939093" ID="ID_1164596373" MODIFIED="1383655024428" TEXT="Features">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383655047606" ID="ID_1887002412" MODIFIED="1383655054999" TEXT="Instanzen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383655060229" ID="ID_36801434" MODIFIED="1383655070871" TEXT="Anpassung an die konkrete Aufgabe">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1383833263373" ID="ID_641631695" MODIFIED="1383833266568" TEXT="Evaluierung">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383662028479" ID="ID_79097320" MODIFIED="1383833270354" TEXT="Vergleich mit &#xe4;hnlichen Ans&#xe4;tzen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383662114533" ID="ID_255581673" MODIFIED="1383833272439" TEXT="Baseline(s)">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383833275565" ID="ID_215465113" MODIFIED="1383833288456" TEXT="Signifikanztest">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383925428132" ID="ID_690811264" MODIFIED="1383925438910" TEXT="Training/Test oder Kreuzvalidierung">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1383652432401" ID="ID_1733131037" MODIFIED="1383653181073" POSITION="right" TEXT="Code">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1383655074940" ID="ID_1513874602" MODIFIED="1383655080768" TEXT="Schnittstellen kl&#xe4;ren">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383926204123" ID="ID_982747840" MODIFIED="1383926206965" TEXT="Interfaces">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383926207483" ID="ID_1103776961" MODIFIED="1383926211461" TEXT="abstrakte Klassen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383926211914" ID="ID_1997915776" MODIFIED="1383926229845" TEXT="Dateiformate">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383655081460" ID="ID_319114476" MODIFIED="1383655090664" TEXT="einander zeigen und diskutieren">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1383655091116" ID="ID_538962635" MODIFIED="1383655096542" TEXT="kommentieren">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383925954386" ID="ID_249319535" MODIFIED="1383925989940" TEXT="Was macht der Codeteil?">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383925947634" ID="ID_79354625" MODIFIED="1383925953390" TEXT="Ein- und Ausgabe">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383926003601" ID="ID_73655346" MODIFIED="1383926008011" TEXT="Besonderheiten">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383926009249" ID="ID_1394025714" MODIFIED="1383926034331" TEXT="z.B. worauf soll man achten, wenn man diesen Codeteil &#xe4;ndern m&#xf6;chte?"/>
+</node>
+<node COLOR="#990000" CREATED="1383926038096" ID="ID_1369855455" MODIFIED="1383926098153" TEXT="Wer hat den Codeteil geschrieben?">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383926099758" ID="ID_113532942" MODIFIED="1414098790652" TEXT="Code &#xfc;bernehmen">
+<node COLOR="#111111" CREATED="1383926147725" ID="ID_1642532066" MODIFIED="1383926174806" TEXT="Belegstelle"/>
+<node COLOR="#111111" CREATED="1383926160316" ID="ID_1932905948" MODIFIED="1383926170102" TEXT="Was wurde ge&#xe4;ndert?"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383925483298" ID="ID_1237445690" MODIFIED="1383925489966" TEXT="README schreiben">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383925503729" ID="ID_1223650000" MODIFIED="1383925518959" TEXT="Grundz&#xfc;ge des Systems">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383925494322" ID="ID_1651025949" MODIFIED="1383925700835" TEXT="Was macht der Code?">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1383925701947" ID="ID_1870680632" MODIFIED="1383925741444" TEXT="eingesetzte Algorithmen/Ans&#xe4;tze"/>
+<node COLOR="#111111" CREATED="1383925743114" ID="ID_352957171" MODIFIED="1383925803554" TEXT="Besonderheiten/Vorteile"/>
+</node>
+<node COLOR="#990000" CREATED="1383925519857" ID="ID_1902706750" MODIFIED="1383925608776" TEXT="Ausf&#xfc;hrung des Codes beschreiben">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383925609502" ID="ID_1484250963" MODIFIED="1383925886560" TEXT="auf der Kommandozeile">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1383925859542" ID="ID_1777655240" MODIFIED="1383925868464" TEXT="Skripts"/>
+</node>
+<node COLOR="#990000" CREATED="1383925551312" ID="ID_535365676" MODIFIED="1383925564810" TEXT="verwendete externe Tools">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383925900677" ID="ID_35834460" MODIFIED="1383925933550" TEXT="evtl. externe Tools mit abgeben"/>
+</node>
+<node COLOR="#990000" CREATED="1383925568031" ID="ID_1519617918" MODIFIED="1383925572026" TEXT="Kontakt">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383925575599" ID="ID_1101754533" MODIFIED="1383925579546" TEXT="TODO">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383925645117" ID="ID_1972308448" MODIFIED="1414098860072" TEXT="Lizenz">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1383652435353" ID="ID_101490294" MODIFIED="1383746035318" POSITION="left" TEXT="Daten">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1383655118314" ID="ID_1396926108" MODIFIED="1383655222670" TEXT="Suche">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383723369811" ID="ID_701338331" MODIFIED="1383723375733" TEXT="Universit&#xe4;tsserver">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383833006485" ID="ID_1720905614" MODIFIED="1383833355573" TEXT="ella: /resources/..."/>
+</node>
+<node COLOR="#990000" CREATED="1383723376555" ID="ID_1451417667" MODIFIED="1383723389389" TEXT="shared tasks">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383832987454" ID="ID_407443533" MODIFIED="1383833387652" TEXT="SemEval / Senseval"/>
+<node COLOR="#111111" CREATED="1383832993750" ID="ID_1117816678" MODIFIED="1383832995809" TEXT="CoNLL"/>
+<node COLOR="#111111" CREATED="1383833000566" ID="ID_811108638" MODIFIED="1383833002528" TEXT="..."/>
+</node>
+<node COLOR="#990000" CREATED="1383723413798" ID="ID_147791239" MODIFIED="1383723432093" TEXT="Projekt-Webseiten">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383655223379" ID="ID_1553804599" MODIFIED="1383655229638" TEXT="Annotation">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383655235563" ID="ID_1270976183" MODIFIED="1383655258600" TEXT="vorhanden?">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383655261189" ID="ID_1375021679" MODIFIED="1383655272136" TEXT="guter Qualit&#xe4;t?"/>
+<node COLOR="#111111" CREATED="1383833036357" ID="ID_202941378" MODIFIED="1383833039887" TEXT="Format">
+<node COLOR="#111111" CREATED="1383833041493" ID="ID_1033866831" MODIFIED="1383833120797" TEXT="xml/sgml/tabellarisch/..."/>
+<node COLOR="#111111" CREATED="1383833043685" ID="ID_1566813230" MODIFIED="1383833103102" TEXT="inline/standalone"/>
+<node COLOR="#111111" CREATED="1383833138930" ID="ID_525322373" MODIFIED="1383833144860" TEXT="textbasiert/bin&#xe4;r"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1383655276733" ID="ID_1052253354" MODIFIED="1383655281295" TEXT="selbst annotieren">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383655282749" ID="ID_763702666" MODIFIED="1383655297487" TEXT="Guidelines suchen/erstellen"/>
+<node COLOR="#111111" CREATED="1383723462810" ID="ID_272023195" MODIFIED="1383723556719" TEXT="Annotationstool verwenden?">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1383833160401" ID="ID_1923639926" MODIFIED="1383833162204" TEXT="brat"/>
+<node COLOR="#111111" CREATED="1383833164736" ID="ID_511803307" MODIFIED="1383833166299" TEXT="mae"/>
+<node COLOR="#111111" CREATED="1383833166785" ID="ID_176955866" MODIFIED="1414098908870" TEXT="WebAnno"/>
+<node COLOR="#111111" CREATED="1414098909492" ID="ID_1139777637" MODIFIED="1414098911606" TEXT="..."/>
+</node>
+<node COLOR="#111111" CREATED="1383655304916" ID="ID_1012582310" MODIFIED="1383655318357" TEXT="Gegenannotieren">
+<node COLOR="#111111" CREATED="1383655319402" ID="ID_687479825" MODIFIED="1383655333837" TEXT="Inter- und Intraannotator Agreement"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383722981383" ID="ID_1547938614" MODIFIED="1383722986349" TEXT="Verarbeitung">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383722987745" ID="ID_1450378189" MODIFIED="1383723018716" TEXT="angemessene Datenstrukturen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383723019745" ID="ID_917768295" MODIFIED="1383723032220" TEXT="organisierte Dateistruktur">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383723452907" ID="ID_590964895" MODIFIED="1383723496860" TEXT="bei gro&#xdf;en Korpora Parallelisierung">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383655231411" ID="ID_1736886890" MODIFIED="1383655234102" TEXT="Datenanalyse">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383655341666" ID="ID_1938614838" MODIFIED="1383655346364" TEXT="Besonderheiten">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383655347338" ID="ID_1399316463" MODIFIED="1383833203006" TEXT="Verrauschtheit">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383655354938" ID="ID_567032107" MODIFIED="1383655388885" TEXT="Einfluss auf die H&#xf6;chstqualit&#xe4;t des Systems?"/>
+</node>
+<node COLOR="#990000" CREATED="1383833203663" ID="ID_1651095720" MODIFIED="1383833209498" TEXT="Ausgeglichenheit">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383723712806" ID="ID_751765447" MODIFIED="1383723746348" TEXT="Trainings-/Development-/Testkorpus">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383833224735" ID="ID_526573586" MODIFIED="1383833231755" TEXT="gen&#xfc;gend Trainingsdaten da?">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1383652437297" ID="ID_1378870298" MODIFIED="1383655760672" POSITION="left" TEXT="Literatur">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1383655409502" ID="ID_1081623724" MODIFIED="1383655423097" TEXT="&#xe4;hnliche Fragestellungen">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383655529990" ID="ID_1939307739" MODIFIED="1383655541881" TEXT="siehe &quot;related work&quot;-Beschreibungen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383655466576" ID="ID_112681275" MODIFIED="1383655560220" TEXT="&#xc4;hnlichkeiten und Unterschiede zum eigenen Ansatz">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383655423942" ID="ID_504563781" MODIFIED="1383655435049" TEXT="Was ist davon verwendbar?">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383655445957" ID="ID_1280497827" MODIFIED="1383655463447" TEXT="kritische Auseinandersetzung">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383655480536" ID="ID_1994892719" MODIFIED="1383655516977" TEXT="Warum ist ein Ansatz (un)geeignet f&#xfc;r die aktuelle Aufgabe?">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383723230483" ID="ID_1323008029" MODIFIED="1383723246613" TEXT="&#xe4;ltere und neueste Literatur">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1414098989499" ID="ID_514941565" MODIFIED="1414099029324" TEXT="Lehrbuchkapitel mit empfohlener Literatur">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383723252012" ID="ID_1858417567" MODIFIED="1383723259031" TEXT="&quot;related work&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383723259637" ID="ID_1134743489" MODIFIED="1383723276668" TEXT="Literaturverzeichnis">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383723277890" ID="ID_596336504" MODIFIED="1383723295964" TEXT="Web-Seite der Autoren">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383723297225" ID="ID_344342598" MODIFIED="1383723311255" TEXT="Konferenzen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383723311660" ID="ID_920285824" MODIFIED="1383723319470" TEXT="Artikelsammlungen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383723325076" ID="ID_752944083" MODIFIED="1383723340830" TEXT="wissenschaftliche Foren">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383655435526" ID="ID_894349853" MODIFIED="1383655445009" TEXT="Belegstellen konsequent notieren">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1414099173740" ID="ID_1472849040" MODIFIED="1414099550978" TEXT="Einheitlichkeit und Genauigkeit wichtig">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1414099049391" ID="ID_973490769" MODIFIED="1414099198762" TEXT="Vorlagen z.B. https://owl.english.purdue.edu/owl/">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1414099313834" ID="ID_151735122" MODIFIED="1414099315508" TEXT="http://www.plagiarism.org/citing-sources">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1414099480698" ID="ID_1395714817" MODIFIED="1414099481885" TEXT="http://pitt.libguides.com/citationhelp">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1414099484570" ID="ID_859738201" MODIFIED="1414099486125" TEXT="...">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1383653644606" ID="ID_1930003518" MODIFIED="1383746082153" POSITION="left" TEXT="schriftliche Zusammenfassung">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1383746018766" ID="ID_1529834300" MODIFIED="1383746110407" TEXT="Struktur">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383654384818" ID="ID_1667392051" MODIFIED="1383746111371" TEXT="Ziel">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383654400650" ID="ID_1545217911" MODIFIED="1383746112555" TEXT="Methode">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383926633869" ID="ID_978381386" MODIFIED="1383926638270" TEXT="Motivation"/>
+<node COLOR="#111111" CREATED="1383654424481" ID="ID_956310463" MODIFIED="1383926627812" TEXT="Vorgehensweise">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1383926566095" ID="ID_275919267" MODIFIED="1383926575849" TEXT="Beispiele"/>
+</node>
+<node COLOR="#990000" CREATED="1383654632058" ID="ID_1822051879" MODIFIED="1383746113514" TEXT="&#xe4;hnliche Arbeiten">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383654418081" ID="ID_167609638" MODIFIED="1383746114378" TEXT="Daten + Datenanalyse">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383654430881" ID="ID_925834358" MODIFIED="1383746116156" TEXT="Evaluierung">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383654617229" ID="ID_176678770" MODIFIED="1383926451909" TEXT="Fehleranalyse">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383926459474" ID="ID_1204842465" MODIFIED="1383926467296" TEXT="Zusammenfassung und Ausblick">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383746117620" ID="ID_1560299383" MODIFIED="1383926549966" TEXT="Literaturverzeichnis">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1383746126339" ID="ID_1145614697" MODIFIED="1383746129773" TEXT="gedruckt"/>
+<node COLOR="#111111" CREATED="1383746130867" ID="ID_129188587" MODIFIED="1383746132941" TEXT="online"/>
+<node COLOR="#111111" CREATED="1383746181841" ID="ID_662695390" MODIFIED="1383746197479" TEXT="Daten">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1383746137123" ID="ID_908085981" MODIFIED="1383746142429" TEXT="gegenlesen lassen!">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1383926483969" ID="ID_544390233" MODIFIED="1383926498531" TEXT="durch Muttersprachler">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383746145106" ID="ID_75869578" MODIFIED="1383746156333" TEXT="sprachliche Korrektur">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1383746157250" ID="ID_799843863" MODIFIED="1383746164702" TEXT="inhaltliche R&#xfc;ckmeldung">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+</map>

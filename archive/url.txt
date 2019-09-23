@@ -1,0 +1,6 @@
+https://scikit-learn.org/stable/tutorial/machine_learning_map/
+https://scikit-learn.org/stable/_static/ml_map.png
+
+
+Tim Rocktäschel zu Projekten (nicht nur für DL-Projekte)
+https://rockt.github.io/2018/08/29/msc-advice
