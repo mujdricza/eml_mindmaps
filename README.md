@@ -44,10 +44,10 @@ Die Mindmaps wurden in mm-Format durch [FreeMind](http://freemind.sourceforge.ne
 
 # Kontakt
 
-Eva Mujdricza-Maydt, [mujdricza@cl.uni-heidelberg.de](mailto:mujdricza@cl.uni-heidelberg.de), [mujdricza@web.de](mailto:mujdricza@web.de)
+Eva Mujdricza-Maydt, [mujdricza@cl.uni-heidelberg.de](mailto:mujdricza@cl.uni-heidelberg.de), [me.levelek@gmx.de](mailto:me.levelek@gmx.de)
 
 Ich freue mich auf Rückmeldungen, Verbesserungsvorschläge!
 
 Archiv:
 * ursprüngliche Gitlab-Repository: [https://gitlab.cl.uni-heidelberg.de/mujdricza/eml]
-* letzte Webseite: [http://www.cl.uni-heidelberg.de/courses/ws18/ml/]
+* letzte PS-Webseite: [http://www.cl.uni-heidelberg.de/courses/ws18/ml/]
